@@ -7,4 +7,4 @@ del número de teléfono que se le brindó al usuario (La idea principal es que 
 mucha gente no usa correo electronico). Un detalle a destacar es que cuando el cliente queda registrado, su nombre se verá en un color negro, cuando falte 1 semana para su vencimiento
 se verá amarillo a modo de advertencia y cuando se venza se verá de color rojo para resaltar que debe renovar su membresia.
 
-Capturas: https://imgur.com/a/tTR4MwA
+Capturas: https://imgur.com/a/Nwkpq8O
