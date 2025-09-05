@@ -1,0 +1,16 @@
+# Archivos de Python
+__pycache__/
+*.pyc
+
+# Base de datos
+gimnasio.db
+
+# PDFs generados
+recibos/
+
+# Archivos de build / temporales
+build/
+*.spec
+
+# Fuentes locales (opcional)
+fonts/
