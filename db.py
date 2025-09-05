@@ -12,6 +12,27 @@ def conectar(ruta="gimnasio.db"):
     return conexion
 
 # ------------------ Credenciales ------------------
+
+
+def inicializar_db():
+    con = sqlite3.connect("gimnasio.db")
+    cur = con.cursor()
+    cur.execute("""
+        CREATE TABLE IF NOT EXISTS usuarios (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            nombre TEXT NOT NULL,
+            apellido TEXT NOT NULL,
+            telefono TEXT NOT NULL,
+            membresia TEXT NOT NULL,
+            fecha_registro TEXT NOT NULL,
+            fecha_vencimiento TEXT NOT NULL
+        )
+    """)
+    con.commit()
+    con.close()
+
+inicializar_db()
+
 def crear_tabla_credenciales():
     conn = conectar()
     cur = conn.cursor()
