@@ -27,6 +27,7 @@ Ocultar/Mostrar contraseña:
 
 Agregar un nuevo usuario y generar un recibo:
 
+
 <img width="802" height="525" alt="4LBoRwZ" src="https://github.com/user-attachments/assets/326ec7b6-ead6-4e2e-be5b-e1b69f3596c9" />
 <img width="1366" height="726" alt="MXvOhau" src="https://github.com/user-attachments/assets/fb9714a1-f0da-42bf-a8ec-492c32a25b75" />
 
@@ -34,10 +35,13 @@ Agregar un nuevo usuario y generar un recibo:
 
 
 Eliminación de usuario:
+
+
 <img width="783" height="525" alt="AsmPlkZ" src="https://github.com/user-attachments/assets/d9249749-5ed5-4416-b891-587cdfc2f8b2" />
 
 
 Modificar usuario (Genera otro recibo):
+
 
 <img width="1366" height="718" alt="mUwgVmS" src="https://github.com/user-attachments/assets/7a688b70-1799-4a63-b161-3aab483f592a" />
 
